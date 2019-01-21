@@ -1,0 +1,26 @@
+{
+  "name": "ufo-kit",
+  "version": "0.0.1",
+  "description": "The UFO builder and Utilities",
+  "main": "ufo-kit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digi3colin/ufo-kit.git"
+  },
+  "keywords": [
+    "font",
+    "ufo"
+  ],
+  "author": "Shiba Komino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digi3colin/ufo-kit/issues"
+  },
+  "homepage": "https://github.com/digi3colin/ufo-kit#readme",
+  "dependencies": {
+    "jxon": "^2.0.0-beta.5"
+  }
+}
