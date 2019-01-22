@@ -1,1 +1,1 @@
-{"version":3,"sources":["UFOKit.jsx"],"names":["UFOKit"],"mappings":"AAAA,eAAe,MAAMA,MAAN,CAAY","sourcesContent":["export default class UFOKit{\n\n}"],"file":"UFOKit.js"}
+{"version":3,"sources":["UFOKit.jsx"],"names":["UFOKit"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;MAEqBA,M","sourcesContent":["import JXON from 'jxon';\n\nexport default class UFOKit{\n}"],"file":"UFOKit.js"}

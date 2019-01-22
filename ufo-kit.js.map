@@ -1,1 +1,1 @@
-{"version":3,"sources":["ufo-kit.jsx"],"names":["UFOKit"],"mappings":"AAAA,OAAOA,MAAP,MAAmB,cAAnB;AAEA,eAAeA,MAAf","sourcesContent":["import UFOKit from './src/UFOKit';\n\nexport default UFOKit;"],"file":"ufo-kit.js"}
+{"version":3,"sources":["ufo-kit.jsx"],"names":["UFOKit"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;iBAEeA,e","sourcesContent":["import UFOKit from './src/UFOKit';\n\nexport default UFOKit;\n"],"file":"ufo-kit.js"}
